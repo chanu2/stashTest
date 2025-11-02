@@ -25,9 +25,11 @@ public class TestClass {
         int a12 = 11111111;
         int a14 = 11111111;
 
-
         String i = new String("123");
         String i1 = new String("1234");
         String i2 = new String("12345");
+        String Test = "asdjhaskjdhkajshf";
+
+        String a = "test";
     }
 }

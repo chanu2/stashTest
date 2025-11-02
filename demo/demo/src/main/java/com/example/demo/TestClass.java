@@ -17,8 +17,12 @@ public class TestClass {
         int a8 = 10;
         int a9 = 10;
         int a10 = 10;
+        int a13 = 10;
+        int a15 = 10;
+        int a16 = 10;
+        int a175 = 10;
         int a11 = 11111111;
         int a12 = 11111111;
-        int a13 = 11111111;
+        int a14 = 11111111;
     }
 }

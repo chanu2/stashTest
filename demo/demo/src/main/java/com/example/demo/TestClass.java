@@ -17,5 +17,9 @@ public class TestClass {
         int a8 = 10;
         int a9 = 10;
         int a10 = 10;
+        int a13 = 10;
+        int a15 = 10;
+        int a16 = 10;
+        int a175 = 10;
     }
 }
